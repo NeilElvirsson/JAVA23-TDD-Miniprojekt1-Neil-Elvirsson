@@ -6,4 +6,4 @@
   alt="home, page" 
   title="homepage"
   width="200px"
-  style="display: inline-block; margin: 0 auto; max-width: 50px">" 
+  style="display: inline-block; margin: 0 auto; max-width: 200px">" 
