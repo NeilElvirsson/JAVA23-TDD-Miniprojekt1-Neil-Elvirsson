@@ -44,8 +44,8 @@ public class PrimeNumbersTest {
     @DisplayName("Test för primtal mellan 0 och 10")
     public void testPrimeCountingSmallRange() {
         PrimeNumbers primeNumbers = new PrimeNumbers();
+
         int count = primeNumbers.countPrimes(0, 10);
-        //Förväntat antal primtal mellan 0 - 10 är 4
         assertEquals(4, count);
     }
 
