@@ -2,7 +2,7 @@
 
 ## Images 
 <img 
-  src="" 
+  src="Skärmbild 2024-11-07 151333.png" 
   alt="home, page" 
   title="homepage"
   width="200px"
